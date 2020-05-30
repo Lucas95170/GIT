@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Logiciel de dessin" version="4">
+  <OBJECT>
+    <ID name="Logiciel de dessin" mc="Standard.Project" uid="e1b45946-8b9c-489d-89d5-6302d7ba6173"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Logiciel de dessin]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="logiciel de dessin" mc="Standard.Package" uid="fe411d0d-c4f9-4d95-a60f-b8b38559ec14"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Logiciel de dessin" mc="Infrastructure.DiagramSet" uid="995fbfa0-7fc3-4d5f-8fa6-52bd3fe2d8e0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

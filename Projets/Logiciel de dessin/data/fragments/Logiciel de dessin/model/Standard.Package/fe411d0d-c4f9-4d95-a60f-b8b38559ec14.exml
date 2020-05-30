@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="logiciel de dessin" version="4">
+  <OBJECT>
+    <ID name="logiciel de dessin" mc="Standard.Package" uid="fe411d0d-c4f9-4d95-a60f-b8b38559ec14"/>
+    <PID name="Logiciel de dessin" mc="Standard.Project" uid="e1b45946-8b9c-489d-89d5-6302d7ba6173"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[logiciel de dessin]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="FenAfficherFigure" mc="Standard.Class" uid="c486a38e-d579-411e-89db-5edaa713e7e6"/>
+        <COMPID name="Figure" mc="Standard.Class" uid="ab17a4f3-aa59-455a-b2cc-f6a3bc288892"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="logiciel de dessin Class diagram" mc="Standard.ClassDiagram" uid="d794762a-0194-49de-b9ae-f467ba0f73b6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

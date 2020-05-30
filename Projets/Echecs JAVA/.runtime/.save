@@ -1,0 +1,9 @@
+#Mon Jun 17 02:12:28 CEST 2019
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/boute/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.development.perspective.parentId=app.ui.ext_com.partstack.bottom
+org.modelio.diagram.editor.OpenedDiagrams3='Echecs Java V2 Class diagram' {147c1087-9ae7-41da-8c50-ac99a15bd51b} Standard.ClassDiagram
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/boute/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.diagram.perspective.parentId=app.ui.ext_com.partstack.right
+org.modelio.diagram.editor.OpenedDiagrams2='Echecs Java V2 Use Case diagram' {81dc6525-ab46-4d0a-83b6-675baf069bb1} Standard.UseCaseDiagram
+org.modelio.diagram.editor.OpenedDiagrams1='echecs java Class diagram' {274ea5a2-e7d3-450d-8075-0854bb60be38} Standard.ClassDiagram
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/boute/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.app.ui.model.perspective.parentId=org.modelio.app.bottom.parts
+org.modelio.diagram.editor.OpenedDiagrams0='echecs java Use Case diagram' {23c41737-1422-41f7-a2e1-8b8ecb5fa4bb} Standard.UseCaseDiagram
+org.modelio.module.propertytab.JavaDesigner\ v3.8.01\ GModule\ @file\:///C\:/Users/boute/.modelio/3.8/modules/JavaDesigner_3.8.01/JavaDesigner_3.8.01.jmdac\ runtime\ module_.org.modelio.full.perspective.parentId=app.ui.ext_com.partstack.bottom

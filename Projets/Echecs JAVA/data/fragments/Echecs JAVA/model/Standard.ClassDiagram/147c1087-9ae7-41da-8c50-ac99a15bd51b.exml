@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Echecs Java V2 Class diagram" version="4">
+  <OBJECT>
+    <ID name="Echecs Java V2 Class diagram" mc="Standard.ClassDiagram" uid="147c1087-9ae7-41da-8c50-ac99a15bd51b"/>
+    <PID name="Echecs Java V2" mc="Standard.Package" uid="b386a5de-df6e-4b6b-8695-fe359cd36d04"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">13</ATT>
+      <ATT name="UiData"><![CDATA[eJztmm1T4joUx79Kh7lvW9vyvLruKDBervgwgM7cfcOctgGzpi03CSp++psUilKR1lKLu9N3NJCTk+T3zzkn9OjHk0uUB0QZ9r3vJUPTS8qP46Mr6xeyuYId0VRS+HyKvpd8OtFc30EE+5qDYULB1ZCDuU81xoHjew0R5CKPs8WzHf7ozB0Ez+3Fc0lx4ZdPR6tB9dLx0TX1p4jyueKBK8YiMPdnvA0cxHe3QGZo6YQ3I6R0cHx0EHZ403XA5wSV1qZgbpsCk79nmu1TpC36JvCvBcwGBznhYJ0n3kfjhKNcChPLngp64m2rK3wMPsoPF4ueSll7ikz0YDGlbZOniABHjvAlsm4Xskl5kC1yicBzgDpaiwBjy21RjErdNvRGXW0CqqsVwwG1YVd1FexmE4yq5VQNa/vSC2v83PMfvR5YiEQ8GHCKvUnpuGPfIZsp/8ADKLemErigLJfp6CDosXWGPkFdr+W7U59hLvbnnWESmGrdYeJQJC30MONryJRTUG8TeH4WtAdT2onyvnADvIkEZLllDf2woh+aunFo1BofFkDl0wUg6V9Ibatvrd7JYDDqd677ncHo4qrdiUy8483cb4mcPEfzv/poShETaw8SBCmcF8SH/ZvW8KbfaSdx6GQ4HJ31r26ub7uD7mkv6tWpL6ADb2Wc0xnKR5uKDnrNQoahmqZtqpV6paE2x01bBateruhWGTl2ORtR4v9mGNGvo8Dqrgq8ptgFOr8MsMhUjPpheinWkkpRmHqa76zHSsFpHKcXgD0JyY681lPwKq2yKdjoDonNo4Lcy7Dl76Al/1ypkS+ftYLPOD4XJCQwyO78xxG23xiKhq8xEBaNX5tM3aP5o0+dDKxxsO9HjCOK/I+H1k2ukQ178HFTYDFOweYpZrji9JV0mukiFmN4jAPxt1YPfcTwM1gEnVF/Ns3/FDD04hj4YsfAjuHJSFPHAxeDWzOOJhJDQehJ2LA7l11PmJURbrlTZszCb6I0cWGfDaVCFQWmMZiuE7IrtGnK8BW0r3nNFFXV+DiqiUvwjFCNFuLZo7paW8Wwy02rPq6rtXKjrFZQGakNw6yqzhjGTg2saqXmZIArB0xIkjQ9wyP1T8ipkvqWMql6IWuh35gsyUhT2EuDwSVPGIiuwoZ9JUg51/FF6ElQyCN+5zup405CfNPU+VgEEOoJGQr52HxGZWjqLtsGYdseIM652C8gjoc4xGLXzClNMZoI0z0duGbOFakRvdr9zVnNENFPPmHNNJVqInR/+t4eTlkz7yr1DyP3M05ZSULGBCeEO01Fiz0P0eCmMKBaPOz+F3O0pjXMmL9uN5Gdd1Fb5A8J8gcvkb1tyYOZpkR7B9J9pQs512dm8Ufr3vOGdJXZRmoR21OukHNFVmD71XKFt19FxsHsVjxhG7K9qouM8vYdGm3JV0weEd3FjUpNVZy6MEGrFyaCu0opWdkqX5oYyNYFGlmmRVF9xEu4nHOhWig4VsEDMVtCME8i4+LCP5ML/9gDpoe9e7blrIz8/HTSpvAodrMHcyHPdcVtvzAIDxBnYYBpRJoQZ8eaxXxC/cd67fdtbhyFNpRT+0zrnfzb6Y9OT1rn8rXZy3bW8fFdK6/37AWf1zBsvW0pYPg0GIZX17llSf8DmWjFkg==]]></ATT>
+      <ATT name="Name"><![CDATA[Echecs Java V2 Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Echiquier" mc="Standard.Class" uid="0a06be11-22c2-4748-9f9c-ab7340b3edc3"/>
+        <REFOBJ>
+          <ID name="taille" mc="Standard.Attribute" uid="1c39b7f7-6383-4e3e-8125-dfafd6ab546d"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="a9db70aa-47db-48fb-8ee0-ffb6c80ed6b9"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

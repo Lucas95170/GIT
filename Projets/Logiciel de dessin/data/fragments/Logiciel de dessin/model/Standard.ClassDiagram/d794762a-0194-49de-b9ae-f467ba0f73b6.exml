@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="logiciel de dessin Class diagram" version="4">
+  <OBJECT>
+    <ID name="logiciel de dessin Class diagram" mc="Standard.ClassDiagram" uid="d794762a-0194-49de-b9ae-f467ba0f73b6"/>
+    <PID name="logiciel de dessin" mc="Standard.Package" uid="fe411d0d-c4f9-4d95-a60f-b8b38559ec14"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">28</ATT>
+      <ATT name="UiData"><![CDATA[eJztm1tv4jgUx79KhPY1aW7ksu101ALbRaUXQVtp9wXZyQn1NCTIMVPopx8nXKaklIaQBqaK1IfG4OPb72+fc2JOvk+GvvATaETC4FtNkeSa8P305Ab/AIcJxOVFNYFNR/CtFtKBNAxd8EkouQQNKBpK4BIWUiliiJEnCXwYQsCi2bOz+NLFsJc8N2fPNWGIfoS0v2xUrp2e3NJwBJRNhQANeVs+moZj1kQM8c8ekD+GeSeCse/Xjk5PjhYV3lTtsakPtZUhqJuGEMXfjyQnpCDN6mboXwNFDnLBXTTWmrAueBlbueYm5jUFmLAmbvM+Jv/G/1zNagqaNEkN9Gg2pE2Dp+AjBi7vS2reruIi4WdcEk8RClxEXanhoyiaL4vgmrZuGioSZcXWRd12QcQ2AtHTDRMj2TM1bGyeem6NXQbhc9BBGPxUD3qMkmBQO/XDAXEI+IIL/C+KSCAk3RDmU3VylNTaOMrQh3bQCIejMCKMr9E7TWUw1XgkvkshttAhEVvBRstBvuOjlxdOfDKknUjv8m6gYBBDMl82xZKPDflYUY1jxVC2VoH+6SqIJTDT28a+NTpnvV6/27rttnr9q5tmKzXyVjAe/p2pk5cw/asLIwoRn3wUkxCr5zfnd937xt19t9XM0qGzu7v+Rffm/vah3Wufd9K9Og85dShYGmd0DOUIVEBYMZHuaSJCdVvU63UkYtVxRM9AGnZUy7LsD6Y8kzL/IYMxhcPRX31X/d1SMkR0ep0wUagU5eP8OjSy6pCbmkx3FqNeQboR0itEgpiQHWE1c8AaW41GyIFH4CtHObbXi5J/k5LyXSWrXDjTDkUF56rBGQYZDEaP4XOfOG8MpU8tD/lR+thaZ+oJps8hdQuwxpDz1I8YUAi3P1HXdc1fswDbm0I4YhQ5LMcIl5C+0o2d76zi7q9HEuU3lg9diMgLwj5c0HA8Kn8LUORqDzikPWDHg0nJE8AjxhvHYwaDmEGO59miYHco2wE3G59t82Uyt3ehlMwRfTGIcklUjG5idBWPXYnNE3gviX0Na6Gcijk4zRxzF8RpGo7iOV3OreB6OmjYUEWMVVfUzTqItqyA6Gi2Z2MAHbtmAaxOyt1Kv4IjlbVvOT2pdf6PkidYP0zNlhyfl6pZ2ZNNVbY9UbfVuqiDqouWrIJYlzEvxahu6FoBmp1Wmv0TNJsnZ3GYmi05bVGqZj3btrBhmyICQxZ1x0CipaueaOieVddtS7VMqwDNjnwgQaXbP0G3eZINB6lbteRUQ6m6NQ2sYtNwRKuucf8YARaxptdFD6mW58iuZzpF6HbZYKXdQ9Xu0SzE/UDWap5ETWwwefG5SNTcLAr2lD1Uq9TMYaVmroA9hm7uvExGdvOkbAg/QGjANci14zA+ao5ve17WW5TtgeCykzYVwZsJXjCxY1pRzZOiyMTovrbakjMV6he7SlAgop+9veaJ1DOh+38Y7GOLLTle/2rkFr7FxhgUjG9GsvPEsiQIgCZvzxOk+cPu1y3T0ay9NdRa2cFs5Td85DcEme7ObLwDnCcoe4fPPbkJWskRmVZxuVdnQcsXi61FFqL9OAhayTFYxexBOQhvP0q1Q6IH/kQcVGxaLtXK22vk0hyuD5yH9DvUtTLNFY4O0QCW14aTvGSs17g0vjrci0tnXBTpC6W95wz6rS65H5R8e3yovk8yvSSoMvuFZPY/3F06JHiKNmyUqa+fD5oUPfPV7KAp1+aq3DbnBxa7hzszEEl+bIJvHCsWyznkt6u1398zkjS0Czk1L6TO2X+tbv/8rHEZ/2bsuln04fiulddr9huf1zBsTK5UMHwaDHc3t6W5SL8AwLKnVA==]]></ATT>
+      <ATT name="Name"><![CDATA[logiciel de dessin Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="Figure" mc="Standard.Class" uid="ab17a4f3-aa59-455a-b2cc-f6a3bc288892"/>
+        <REFOBJ>
+          <ID name="x" mc="Standard.Attribute" uid="df4e3b62-bb2d-475e-901e-c39f9bee4bd7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Attribute" mc="Standard.Attribute" uid="76b2b76c-853d-4aeb-b345-fa28fc0df7c8"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="y" mc="Standard.Attribute" uid="0f07209f-4925-4e24-802e-50b09fba5643"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="plein" mc="Standard.Attribute" uid="f998b697-ae60-4c6a-842f-64f854982878"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="9c19a7ba-781b-46c2-8c96-0d6575e42098"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

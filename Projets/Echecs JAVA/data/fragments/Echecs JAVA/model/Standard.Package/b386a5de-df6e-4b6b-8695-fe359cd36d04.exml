@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Echecs Java V2" version="4">
+  <OBJECT>
+    <ID name="Echecs Java V2" mc="Standard.Package" uid="b386a5de-df6e-4b6b-8695-fe359cd36d04"/>
+    <PID name="Echecs JAVA" mc="Standard.Project" uid="d88bc041-41e1-4564-af50-f42e354dd386"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Echecs Java V2]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Joueur" mc="Standard.Actor" uid="3102bc60-c2da-4019-841b-1d0ddd458794"/>
+        <COMPID name="Déplacer pièce" mc="Standard.UseCase" uid="678ac61b-a5ea-45b7-87b8-74fe7792a8b9"/>
+        <COMPID name="Prendre pièce" mc="Standard.UseCase" uid="ed42e218-ee17-472f-adcb-874382147496"/>
+        <COMPID name="Vérifier prise pièce" mc="Standard.UseCase" uid="7ddb49c1-9344-477a-8a39-6f6d82dce8e9"/>
+        <COMPID name="Vérifier déplacement" mc="Standard.UseCase" uid="c14b8a55-c0c0-4202-84ec-53768bb46f9e"/>
+        <COMPID name="Sauvegarder partie" mc="Standard.UseCase" uid="267cedc8-8c78-4925-825c-96bae587b597"/>
+        <COMPID name="Charger partie" mc="Standard.UseCase" uid="f4e350af-540e-4e17-82ca-4aec41d9e8a9"/>
+        <COMPID name="Créer partie" mc="Standard.UseCase" uid="fa461db0-033a-4813-af44-d095802d9887"/>
+        <COMPID name="Alterner joueurs" mc="Standard.UseCase" uid="f95da4eb-be2e-4efc-8811-661bd757943f"/>
+        <COMPID name="Echiquier" mc="Standard.Class" uid="0a06be11-22c2-4748-9f9c-ab7340b3edc3"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Echecs Java V2 Use Case diagram" mc="Standard.UseCaseDiagram" uid="81dc6525-ab46-4d0a-83b6-675baf069bb1"/>
+        <COMPID name="Echecs Java V2 Class diagram" mc="Standard.ClassDiagram" uid="147c1087-9ae7-41da-8c50-ac99a15bd51b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

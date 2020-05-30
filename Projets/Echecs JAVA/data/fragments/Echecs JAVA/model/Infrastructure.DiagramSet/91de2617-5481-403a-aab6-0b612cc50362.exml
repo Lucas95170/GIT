@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Echecs JAVA" version="4">
+  <OBJECT>
+    <ID name="Echecs JAVA" mc="Infrastructure.DiagramSet" uid="91de2617-5481-403a-aab6-0b612cc50362"/>
+    <PID name="Echecs JAVA" mc="Standard.Project" uid="d88bc041-41e1-4564-af50-f42e354dd386"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Echecs JAVA]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
