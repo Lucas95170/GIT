@@ -1,0 +1,99 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" /> 
+		<link rel="stylesheet" href="commentaire.css" />
+		<title> BlueNote </title>
+	</head>
+	<body>
+		<header>
+		<div class="header_main_text">
+			<!-- <img src="images/LOGO.png"> -->
+ 			<h1><a href="index.html">BLUE NOTE</a></h1>
+			<p>On y mange, on y boit, on y danse</p>
+		</div>
+		<nav class="navigation_bar">
+			<a href="menu.html" class="nav_buttom">Menus</a>
+			<a href="artistes.html" class="nav_buttom">Artistes</a>
+			<a href="calendrier.html" class="nav_buttom">Calendrier</a>
+			<a href="commentaire.html" class="nav_buttom">Commentaires</a>
+		</nav>
+	</header>
+
+		<main>
+			<div class="formulaire">
+				<form methode="post" action="inscription.html" >
+					<h3> Inscription </h3>
+					<label for="adresse_mail"> Adresse mail *</label>
+					<input type="text" id="adresse_mail" name="adresse_mail">
+					<br>
+					<label for="mdp"> Mot de passe *</label>
+					<input type="text" id="mdp" name="mdp">
+					<br>
+					<label for="conf_mdp"> Confirmer votre mot de passe *</label>
+					<input type="text" id="conf_mdp name="conf_mdp">
+					<br>
+					<input type="submit" value="Inscription" class='bouton'></form>
+				</form>
+			</div>
+			<div class="formulaire">
+				<form method="post" action="comm_reussi.html">
+					<h3> Laissez un commentaire </h3>
+					<label for="nom"> Nom *</label>
+					<input type="text" id="nom" name="nom">
+					<br>
+					<label for="prenom"> Prénom *</label>
+					<input type="text" id="prenom" name="prenom">
+					<br>
+					<label for="conf_mdp"> Commentaire *</label>
+					<textarea id="conf_mdp" name="conf_mdp" rows=20 cols=110></textarea>
+					<br>
+					<input type="submit" value="Envoyer" class='bouton'></form>
+				</form>
+			</div>
+			<div class="formulaire">
+				<form method="post" action="probleme.html">
+					<h3> Un problème ? </h3>
+					<label for="nom"> Nom *</label>
+					<input type="text" id="nom" name="nom">
+					<br>
+					<label for="prenom"> Prénom *</label>
+					<input type="text" id="prenom" name="prenom">
+					<br>
+					<label for="selection"> De quel type est votre problème :</label>
+					<select id="selection" name="selection" tabindex="5">
+						<option value="choix"> Sélectionnez le type de votre problème </option>
+						<option value="choix"> Problème de calendrier </option>
+						<option value="choix"> Problème d'inscription </option>
+						<option value="choix"> Les menus </option>
+						<option value="choix"> Besoin de renseignement </option>
+						<option value="choix"> Autres </option>
+					</select>
+					<br>
+					<label for="conf_mdp"> Commentaire *</label>
+					<textarea id="conf_mdp" name="conf_mdp" rows=20 cols=110></textarea>
+					<br>
+					<input type="submit" value="Envoyer" class='bouton'></form>
+				</form>
+			</div>
+		</main>
+		<footer>
+			<div id="nous_joindre" >
+				<div class="adresse_mail" > blue.note@gmail.com </div>
+				<div class="adresse"> 2 Quai de Paludate, 33800 Bordeaux </div>
+				<div class="numéro_téléphone"> 01.39.45.67.43/06.78.98.43.07 </div>
+			</div>
+			<div id="contact" >
+				<div class="facebook" > 
+					<a href="https://www.facebook.com/" > Facebook </a>
+				</div>
+				<div class="instagram" >
+					<a href="https://www.instagram.com/" > Instagram </a>
+				</div>
+				<div class="twitter" >
+					<a href="https://www.twitter.com/" > Twitter </a>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>

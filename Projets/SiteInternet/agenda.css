@@ -1,0 +1,238 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: "Bahnschrift";
+	text-align: justify;
+}
+
+
+header
+{
+	width: 100%;
+	margin: 0;
+	background-color:  #08589E;
+
+	font-family: "Bahnschrift";
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align:center;
+	text-decoration: none;
+}
+
+.header_main_text
+{
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	/* border: 1px solid white; */
+	padding-bottom: 4px;
+	margin-top: 4px;
+	width: 30%;
+}
+.header_main_text a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.header_main_text h1
+{
+	font-size: 50px;
+	letter-spacing: 10px;
+	word-spacing: 22px;
+	margin: 0;
+	padding: 0;
+	margin-bottom: -4px;
+}
+.header_main_text p
+{
+	word-spacing: 10px;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+	margin-top: -4px;
+}
+
+.navigation_bar
+{
+	margin-top: 20px;
+	margin-bottom: 15px;
+	padding-top: 1px;
+	/*border-top: 1px solid white;*/
+	display: flex;
+}
+.nav_buttom
+{
+	display: block;
+
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 3px;
+	padding-right: 6px;
+	padding-left: 6px;
+	
+	background-color: rgba(255,255,255, 0.15);
+	border-radius: 2px;
+	text-align: center;
+	width: 120px;
+}
+
+.nav_buttom:hover
+{
+	color: #08589E;
+	background-color: white;
+}
+
+.main_page
+{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+
+#h1
+{
+	padding-left: 15%;
+}
+
+aside
+{
+	margin-left: 50px;
+	margin-right: 50px;
+	position: fixed, relative;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: lightgrey;
+	border-radius: 5px;
+	height: 400px;
+	box-shadow: 2px 2px 10px black;
+}
+.calendrier
+{
+	margin: 10px;
+	font-family: "Arial";
+}
+.calendrier table
+{
+	border: 1px solid black;
+}
+tr
+{
+	border-top: 1px solid black;
+}
+td
+{
+	border: 1px solid black;
+}
+.calendrier .soirée
+{
+	color: white;
+}
+.passé
+{
+background: grey;
+}
+#aujourdhui
+{
+background:skyblue;
+}
+.soirée
+{
+background:darkblue;
+}
+
+td:hover
+{
+background: skyblue;
+}
+
+p
+{
+font-size:110%;
+}
+img
+{
+float:left;
+width:30%;
+padding-right: 10px;
+}
+#dive div
+{
+	padding: 5px;
+display: block;
+margin-bottom:5%;
+width:60%;
+border:solid;
+background-color:  #08589E;
+color: white;
+}
+
+
+#link a
+{
+display: block;
+margin-bottom: 15px;
+margin-top: 15px;
+color:black;
+}
+
+footer
+{
+	margin-top: 25px;
+	padding: 20px 0px 20px 0px;
+	background-color: #08589E;
+	width: 100%;
+}
+
+footer, footer a
+{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: lightgrey;
+	text-decoration: none;
+}	
+
+#nous_joindre 
+{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+#contact
+{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.images
+{
+	width: 100%;
+	height: 600px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	position: relative;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+}
+.images img
+{
+	height: 600px;
+	position: relative;
+}

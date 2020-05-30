@@ -1,0 +1,186 @@
+header
+{
+	width: 100%;
+	margin: 0;
+	background-color:  #08589E;
+
+	font-family: "Bahnschrift";
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align:center;
+	text-decoration: none;
+}
+
+.header_main_text
+{
+	color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	/* border: 1px solid white; */
+	padding-bottom: 4px;
+	margin-top: 4px;
+	width: 30%;
+}
+.header_main_text a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.header_main_text h1
+{
+	font-size: 50px;
+	letter-spacing: 10px;
+	word-spacing: 22px;
+	margin: 0;
+	padding: 0;
+	margin-bottom: -4px;
+}
+.header_main_text p
+{
+	word-spacing: 10px;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+	margin-top: -4px;
+}
+
+.navigation_bar
+{
+	margin-top: 20px;
+	margin-bottom: 15px;
+	padding-top: 1px;
+	/*border-top: 1px solid white;*/
+	display: flex;
+}
+.nav_buttom
+{
+	display: block;
+
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 3px;
+	padding-right: 6px;
+	padding-left: 6px;
+	
+	background-color: rgba(255,255,255, 0.15);
+	border-radius: 2px;
+	text-align: center;
+	width: 120px;
+}
+
+.nav_buttom:hover
+{
+	color: #08589E;
+	background-color: white;
+}
+
+.main_page
+{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+
+body
+{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	font-family: "Bahnschrift";
+	text-align: justify;
+}
+
+h1
+{
+	margin-left: 150px;
+}
+
+#afric
+{
+width:20%;
+float: left;
+margin-right: 1%;
+margin-left: 150px;
+}
+#detailevent
+{
+margin-right: 150px;
+}
+#artistes
+{
+margin-top: 300px;
+margin-left: 150px;
+padding-bottom: 150px;
+}
+
+#artistes img
+{
+margin-right: 150px;
+width: 30%;
+float: right;
+}
+#artistes p
+{
+margin-right: 1%;
+margin-right: 550px;
+}
+
+
+footer
+{
+	margin-top: 25px;
+	padding: 20px 0px 20px 0px;
+	background-color: #08589E;
+	width: 100%;
+}
+
+footer, footer a
+{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: lightgrey;
+	text-decoration: none;
+}	
+
+#nous_joindre 
+{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+#contact
+{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.images
+{
+	width: 100%;
+	height: 600px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-around;
+	position: relative;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+}
+.images img
+{
+	height: 600px;
+	position: relative;
+}
